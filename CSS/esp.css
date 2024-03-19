@@ -133,11 +133,11 @@ header .textos-header{
 }
 
 .imagen-about-us{
-    width: 48%;
+    width: 40%;
 }
 
 .sobre-nosotros .contenido-textos{
-    width: 48%;
+    width: 40%;
 }
 
 .contenido-textos h3{
@@ -156,7 +156,6 @@ header .textos-header{
     box-shadow: 0 0 6px #fff;
     margin-right: 5px;
 
-    
 }
 
 .contenido.textos p{
@@ -215,7 +214,7 @@ header .textos-header{
 }
 
 .hover-galeria p{
-    color: #fff;
+    color: #fa03e5;
 }
 
 .imagen-port:hover .hover-galeria{
